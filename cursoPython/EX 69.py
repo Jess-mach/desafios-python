@@ -27,3 +27,4 @@ while True:
 print(f'{maioridade} pessoas tem mais de 18 anos.')
 print(f'{homens} homens foram cadastrados.')
 print(f'{mulheres} mulheres tem menos de 20 anos.')
+
